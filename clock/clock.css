@@ -1,11 +1,11 @@
 body {
-    text-shadow: 0 0 0.5rem white;
     color: black;
+    text-shadow: 0 0 0.5rem white;
 }
 
 #container {
-    margin-top: 2rem;
     margin-left: 1rem;
+    margin-top: 2rem;
 }
 
 #clock {
