@@ -1,6 +1,6 @@
 const urlSearchParams = new URLSearchParams(window.location.search);
 
-let opacity = 0;
+let opacity = 0.5;
 if (urlSearchParams.has('opacity')) {
     opacity = urlSearchParams.get('opacity');
 }
