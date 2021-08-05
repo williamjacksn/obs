@@ -1,10 +1,14 @@
 body {
-    color: white;
+    background-color: rgba(0, 0, 0, 0);
+    font-weight: bold;
 }
 
 #container {
-    margin-left: 1rem;
-    margin-top: 2rem;
+    border-radius: 1rem;
+    color: white;
+    display: inline-block;
+    margin: 1rem;
+    padding: 1rem;
 }
 
 #clock {
