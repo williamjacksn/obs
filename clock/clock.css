@@ -13,10 +13,10 @@ body {
 
 #clock {
     font-family: "Roboto Mono", monospace;
-    font-size: 3rem;
+    font-size: 6rem;
 }
 
 #location {
     font-family: Roboto, sans-serif;
-    font-size: 2rem;
+    font-size: 4rem;
 }
