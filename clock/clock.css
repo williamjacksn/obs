@@ -4,11 +4,11 @@ body {
 }
 
 #container {
-    border-radius: 1rem;
+    border-radius: 2rem;
     color: white;
     display: inline-block;
-    margin: 1rem;
-    padding: 1rem;
+    margin: 2rem;
+    padding: 2rem;
 }
 
 #clock {
