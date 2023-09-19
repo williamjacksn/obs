@@ -3,6 +3,18 @@ body {
     font-weight: bold;
 }
 
+#bottom-bar-outer {
+    background-color: white;
+    height: 0.5rem;
+    width: 100%;
+}
+
+#bottom-bar-inner {
+    background-color: palevioletred;
+    height: 100%;
+    width: 1%;
+}
+
 #container {
     border-radius: 2rem;
     color: white;
